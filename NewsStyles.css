@@ -1,0 +1,51 @@
+header nav {
+	text-align: center;
+}
+button {
+	padding: 10px 15px;
+	font-family: 'Karla', sans-serif;
+	font-size: 15px;
+	background-color: white;
+	border-radius: 8px;
+	border: 1px solid grey;
+}
+button:hover{
+	background-color: lightgrey;
+	opacity: 0.7;
+}
+.newsitems {
+	margin: auto;
+	width: 980px;
+	height:820px;
+	padding: 20px;
+}
+.newsitems headline{
+	text-align: center;
+}
+.headline img {
+	width: 100%;
+}
+.subnNews {
+	margin:auto;
+	width: 980px;
+}
+.subnNews img{
+	width: 520px;
+	height:300px;
+	float: left;
+	padding: 10px;
+}
+.subnNews content{
+	position: absolute;
+	float: right;
+}
+.news2 img{
+	width: 520px;
+	height:300px;
+	float: right;
+	padding: 10px;
+}
+.subnNews content2{
+	position: absolute;
+	float: left;
+}
